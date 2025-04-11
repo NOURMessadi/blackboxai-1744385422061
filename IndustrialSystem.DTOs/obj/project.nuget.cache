@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mvhnEpVKr3bOuxVA7eckzjgh2sgpW/DQfm4WCAPQoyOhqVjXi6ZDIuyJFV6HY5xfhTxVwKgHtMcIt0nNJGjN5w==",
+  "success": true,
+  "projectFilePath": "/project/sandbox/user-workspace/IndustrialSystem.DTOs/IndustrialSystem.DTOs.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/fluentvalidation/11.7.1/fluentvalidation.11.7.1.nupkg.sha512",
+    "/root/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/root/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.17/microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.app.ref/7.0.17/microsoft.netcore.app.ref.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
