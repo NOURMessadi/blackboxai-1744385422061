@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Connection Test</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
+        h1 { color: #2c3e50; }
+        .success { color: #27ae60; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>Port 8000 Connectivity Test</h1>
+    <p class="success">If you can see this message, port 8000 is accessible.</p>
+    <p>Last test: <span id="datetime"></span></p>
+    <script>
+        document.getElementById('datetime').textContent = new Date().toLocaleString();
+    </script>
+</body>
+</html>
